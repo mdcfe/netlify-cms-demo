@@ -4,7 +4,7 @@ backend:
   branch: main
   open_authoring: true
 
-site_url: https://your-site.com
+site_url: https://angry-agnesi-6d26d3.netlify.app/
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
 
