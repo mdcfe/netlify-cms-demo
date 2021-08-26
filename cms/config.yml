@@ -17,3 +17,4 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "wiki"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
+    preview_path: "#/{{slug}}"
