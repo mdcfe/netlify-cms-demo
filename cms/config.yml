@@ -4,6 +4,7 @@ backend:
   branch: main
   open_authoring: true
 
+site_url: https://your-site.com
 publish_mode: editorial_workflow
 media_folder: "images/uploads"
 
